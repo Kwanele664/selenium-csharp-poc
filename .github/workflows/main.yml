@@ -5,4 +5,4 @@ jobs:
   Build-DotNet-Project:
     runs-on: ubuntu-latest
     steps:
-      - run: dotnet build
+      - run: dotnet build Selenium.Poc.sln
