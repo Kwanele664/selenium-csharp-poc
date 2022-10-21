@@ -1,7 +1,6 @@
 ﻿using AventStack.ExtentReports;
 
 namespace Selenium.Poc.Reporting;
-
 public static class ExtentTestManager
 {
     private static readonly ThreadLocal<ExtentTest> ParentTest = new ThreadLocal<ExtentTest>();

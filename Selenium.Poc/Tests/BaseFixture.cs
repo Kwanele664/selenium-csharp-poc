@@ -4,7 +4,6 @@ using Selenium.Poc.Reporting;
 using Selenium.Poc.Utils;
 
 namespace Selenium.Poc.Tests;
-
 public class BaseFixture : IDisposable
 {
     public readonly BrowserHelpers BrowserHelpers;

@@ -1,11 +1,4 @@
-﻿using OpenQA.Selenium.Chrome;
-using OpenQA.Selenium.Edge;
-using OpenQA.Selenium.Firefox;
-using OpenQA.Selenium.Remote;
-using WebDriverManager.DriverConfigs.Impl;
-
-namespace Selenium.Poc.Browsers;
-
+﻿namespace Selenium.Poc.Browsers;
 public class BrowserHelpers
 {
     private readonly IWebDriver _driver;

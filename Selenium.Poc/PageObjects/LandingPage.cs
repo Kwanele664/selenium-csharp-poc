@@ -1,5 +1,4 @@
 ﻿namespace Selenium.Poc.PageObjects;
-
 public class LandingPage : BasePage
 {
     private readonly IWebDriver _driver;

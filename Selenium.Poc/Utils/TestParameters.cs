@@ -1,5 +1,4 @@
 ﻿namespace Selenium.Poc.Utils;
-
 public static  class TestParameter
 {
     public static string Username => EnvironmentVariablesReader.GetEnvironmentVariable("TEST_USERNAME");

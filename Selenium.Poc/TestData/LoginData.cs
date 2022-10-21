@@ -1,7 +1,6 @@
 ﻿using Selenium.Poc.Utils;
 
 namespace Selenium.Poc.TestData;
-
 public static class LoginData
 {
     private const string WebsiteUrl = "https://www.saucedemo.com/";

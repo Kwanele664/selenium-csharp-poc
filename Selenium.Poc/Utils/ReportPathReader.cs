@@ -1,5 +1,4 @@
 ﻿namespace Selenium.Poc.Utils;
-
 public class ReportPathReader
 {
     public static string  GetReportFilePath()

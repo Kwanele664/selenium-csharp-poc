@@ -3,7 +3,6 @@ using AventStack.ExtentReports.Reporter.Configuration;
 using Selenium.Poc.Utils;
 
 namespace Selenium.Poc.Reporting;
-
 public static class ExtentService
 {
     

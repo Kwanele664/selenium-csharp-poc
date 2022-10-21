@@ -1,5 +1,4 @@
 ﻿namespace Selenium.Poc.Utils;
-
 public class EnvironmentVariablesReader
 {
     public static string GetEnvironmentVariable(string variable)

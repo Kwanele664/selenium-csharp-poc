@@ -3,7 +3,6 @@ using FluentAssertions;
 using Selenium.Poc.Reporting;
 
 namespace Selenium.Poc.Tests;
-
 public class LoginFixture : IClassFixture<BaseFixture>
 {
     private readonly BaseFixture _fixture;

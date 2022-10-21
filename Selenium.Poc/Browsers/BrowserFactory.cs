@@ -5,7 +5,6 @@ using OpenQA.Selenium.Remote;
 using WebDriverManager.DriverConfigs.Impl;
 
 namespace Selenium.Poc.Browsers;
-
 public class BrowserFactory
 {
     private readonly string _remoteUrl;

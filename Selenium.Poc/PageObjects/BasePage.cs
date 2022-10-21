@@ -2,7 +2,6 @@
 using SeleniumExtras.WaitHelpers;
 
 namespace Selenium.Poc.PageObjects;
-
 public class BasePage
 {
     private readonly IWebDriver _driver;
